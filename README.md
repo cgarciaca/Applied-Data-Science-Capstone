@@ -1,7 +1,7 @@
 # Applied-Data-Science-Capstone
 This is the final course in the IBM Data Science Professional Certificate as well as the Applied Data Science with Python Specialization
 
-<img src="https://github.com/farishelmi17/SpaceX/blob/main/Screen%20Shot%202022-04-16%20at%2011.01.08%20PM.png">
+<img src="">
 
 ## Introduction
 
